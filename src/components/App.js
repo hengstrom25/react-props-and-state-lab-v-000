@@ -35,7 +35,9 @@ class App extends React.Component {
     
   }
   
-  
+  onAdoptPet = id => {
+    const
+  }
   }
   
   
